@@ -15,9 +15,7 @@ In this paper, an automatic multi-feature combined (MFC) method is proposed for 
 
 **Li, Z., Shen, H., Li, H., Xia, G., Gamba, P., & Zhang, L. (2017). [Multi-feature combined cloud and cloud shadow detection in GaoFen-1 wide field of view imagery](https://zhiweili.net/assets/pdf/2017.3_RSE_Multi-feature%20combined%20cloud%20and%20cloud%20shadow%20detection%20in%20GaoFen-1%20wide%20field%20of%20view%20imagery.pdf). *Remote Sensing of Environment*, 191, 342-358.**
 
-![img](https://raw.githubusercontent.com/dr-lizhiwei/MFC/main/Flowchart.jpg)
-
-Fig. 1. Overall framework of the MFC algorithm
+![img](https://raw.githubusercontent.com/dr-lizhiwei/MFC/main/Flowchart.jpg)Fig. 1. Overall framework of the MFC algorithm
 
 <br>
 
