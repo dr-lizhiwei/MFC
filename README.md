@@ -1,7 +1,7 @@
 # MFC
 Multi-Feature Combined Cloud and Cloud Shadow Detection
 
-Rebuild and redirected from [https://sendimage.whu.edu.cn/mfc](https://sendimage.whu.edu.cn/mfc)
+Rebuild and redirected from [https://sendimage.whu.edu.cn/en/mfc](https://sendimage.whu.edu.cn/en/mfc)
 
 
 **Introduction**
